@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning to stay calm
 - 💞️ I’m looking to collaborate on *A340 Cockpit* ✈️
 - 📫 How to reach me:
-   - You could [email me me@linstit.pw](mailto:me@linstit.pw)
-   - My blog has a contact page [here](https://linstit.pw/contact)
+   - You could [email me (it is me@linstit.pw)](mailto:me@linstit.pw)
+   - My blog has a contact page [here](https://linstit.pw/contact) which is useful cuze it's empty
    - You could message me on my [Linked-In @AYoonesi](https://www.linkedin.com/in/AYoonesi/)
    - I sometimes write on [Medium](https://medium.com/@AYoonesi) & [Virgool](https://virgool.io/@AYoonesi), you could leave a comment there
 
