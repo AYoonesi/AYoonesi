@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AYoonesi
-- 👀 I’m interested in Aviation, Economics, Politics, History, AI, and Finance
-- 🌱 I’m currently learning to stay calm
+- 👋 Hi, I’m @AYoonesi (Alireza Yoonesi)
+- 👀 I’m interested in Aviation, Economics, Politics, Law, History, AI, and Finance
+- 🌱 I’m currently learning to *stay calm*
 - 💞️ I’m looking to collaborate on *A340 Cockpit* ✈️
 - 📫 How to reach me:
    - You could [email me (it is me@linstit.pw)](mailto:me@linstit.pw)
